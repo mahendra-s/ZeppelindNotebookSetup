@@ -1,0 +1,39 @@
+{
+  "paragraphs": [
+    {
+      "text": "git --version ",
+      "user": "anonymous",
+      "dateUpdated": "2022-06-06 20:04:27.697",
+      "progress": 0,
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "results": {},
+        "enabled": true,
+        "editorSetting": {}
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1654545859058_1122390074",
+      "id": "paragraph_1654545859058_1122390074",
+      "dateCreated": "2022-06-06 20:04:19.058",
+      "status": "READY"
+    }
+  ],
+  "name": "SHInerpreter",
+  "id": "2H7R9JTNE",
+  "defaultInterpreterGroup": "sh",
+  "version": "0.10.1",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
