@@ -1,9 +1,48 @@
 {
   "paragraphs": [
     {
-      "text": "git --version ",
+      "text": "git only",
       "user": "anonymous",
-      "dateUpdated": "2022-06-06 20:04:27.697",
+      "dateUpdated": "2022-06-06 20:05:08.047",
+      "progress": 0,
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "results": {},
+        "enabled": true,
+        "editorSetting": {}
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "bash: git: command not found\n"
+          },
+          {
+            "type": "TEXT",
+            "data": "ExitValue: 127"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1654545859058_1122390074",
+      "id": "paragraph_1654545859058_1122390074",
+      "dateCreated": "2022-06-06 20:04:19.058",
+      "dateStarted": "2022-06-06 20:04:37.255",
+      "dateFinished": "2022-06-06 20:04:39.507",
+      "status": "ERROR"
+    },
+    {
+      "text": "",
+      "user": "anonymous",
+      "dateUpdated": "2022-06-06 20:04:42.593",
       "progress": 0,
       "config": {
         "colWidth": 12.0,
@@ -19,9 +58,9 @@
       "apps": [],
       "runtimeInfos": {},
       "progressUpdateIntervalMs": 500,
-      "jobName": "paragraph_1654545859058_1122390074",
-      "id": "paragraph_1654545859058_1122390074",
-      "dateCreated": "2022-06-06 20:04:19.058",
+      "jobName": "paragraph_1654545877251_800680797",
+      "id": "paragraph_1654545877251_800680797",
+      "dateCreated": "2022-06-06 20:04:37.251",
       "status": "READY"
     }
   ],
